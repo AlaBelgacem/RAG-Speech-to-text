@@ -4,6 +4,10 @@
 This project aims to streamline and enhance technical support by providing documented responses from telephone conversations. Using Speech Analysis combined with Retrieval-Augmented Generation (RAG), the framework processes conversation input to generate comprehensive, relevant documentation that supports technical resolutions. Leveraging locally hosted large language models (LLMs) with ollama and langchain, this solution ensures both efficiency and data privacy.
 
 
+## Demo
+
+![](https://github.com/AlaBelgacem/RAG-Speech-to-text/blob/main/DEMO%20PFE.gif)
+
 ## Features
 
 - Speech Recognition: Transcribes spoken language from telephone conversations.
